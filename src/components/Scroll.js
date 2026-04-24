@@ -18,7 +18,7 @@ export default function Scroll() {
     <>
       <div className="container" style={{ width: '70%', height: '400px', overflowY: 'auto',paddingTop:'20px'}}>
         <nav id="navbar-example2" className="navbar bg-body-tertiary px-4 mb-4">
-          <a className="navbar-brand" href="#">Scroll me Daddy</a>
+          <a className="navbar-brand" href="#">Scroll me daddy</a>
           <ul className="nav nav-pills">
             <li className="nav-item">
               <a className="nav-link" href="#scrollspyHeading1">First</a>
